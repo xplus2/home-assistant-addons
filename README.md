@@ -2,7 +2,7 @@
 
 Add-On repository URI:
 ```txt
-https://github.com/xplus2/home-assistant-addons
+https://github.com/xplus2/homeassistant-addons
 ```
 
 ## Add-ons in this repository
